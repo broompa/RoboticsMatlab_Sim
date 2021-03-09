@@ -13,6 +13,7 @@ end
 xlim([0,30]);
 ylim([0,30]);
 
+
 % rrt: ----------------------
 s_Parents = [1, 1;]; %[node, parent] % tree tracking
 g_Parents = [1 ,1;]; %[child, parent] 
